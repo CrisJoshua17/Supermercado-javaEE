@@ -184,8 +184,8 @@ public class PanelRegistro extends javax.swing.JPanel {
 
         panelRegistro.add(jPanel1, new org.netbeans.lib.awtextra.AbsoluteConstraints(50, 130, 450, 360));
 
-        jLabel9.setIcon(new javax.swing.ImageIcon("C:\\Users\\crist\\Desktop\\Trabajos\\JavaSpringNet\\SuperMercadoMaven\\src\\main\\java\\Imagenes\\login.png")); // NOI18N
-        panelRegistro.add(jLabel9, new org.netbeans.lib.awtextra.AbsoluteConstraints(230, 30, 88, 91));
+        jLabel9.setIcon(new javax.swing.ImageIcon("C:\\Users\\crist\\OneDrive\\Desktop\\Trabajos Progrmacion\\Supermercado-javaEE\\src\\main\\java\\Imagenes\\login.png")); // NOI18N
+        panelRegistro.add(jLabel9, new org.netbeans.lib.awtextra.AbsoluteConstraints(270, 20, 150, 110));
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(this);
         this.setLayout(layout);

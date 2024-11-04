@@ -75,7 +75,7 @@ public class Principal extends javax.swing.JFrame {
         panelMenu.setPreferredSize(new java.awt.Dimension(105, 587));
         panelMenu.setLayout(new java.awt.GridBagLayout());
 
-        botonRegistro.setIcon(new javax.swing.ImageIcon("C:\\Users\\crist\\Desktop\\Trabajos\\JavaSpringNet\\SuperMercadoMaven\\src\\main\\java\\Imagenes\\registro (1).png")); // NOI18N
+        botonRegistro.setIcon(new javax.swing.ImageIcon("C:\\Users\\crist\\OneDrive\\Desktop\\Trabajos Progrmacion\\Supermercado-javaEE\\src\\main\\java\\Imagenes\\registro (1).png")); // NOI18N
         botonRegistro.addMouseListener(new java.awt.event.MouseAdapter() {
             public void mouseEntered(java.awt.event.MouseEvent evt) {
                 botonRegistroMouseEntered(evt);
@@ -95,7 +95,7 @@ public class Principal extends javax.swing.JFrame {
         gridBagConstraints.insets = new java.awt.Insets(3, 3, 0, 3);
         panelMenu.add(botonRegistro, gridBagConstraints);
 
-        botonMoificarProd.setIcon(new javax.swing.ImageIcon("C:\\Users\\crist\\Desktop\\Trabajos\\JavaSpringNet\\SuperMercadoMaven\\src\\main\\java\\Imagenes\\products_1312256.png")); // NOI18N
+        botonMoificarProd.setIcon(new javax.swing.ImageIcon("C:\\Users\\crist\\OneDrive\\Desktop\\Trabajos Progrmacion\\Supermercado-javaEE\\src\\main\\java\\Imagenes\\products_1312256.png")); // NOI18N
         botonMoificarProd.addMouseListener(new java.awt.event.MouseAdapter() {
             public void mouseEntered(java.awt.event.MouseEvent evt) {
                 botonMoificarProdMouseEntered(evt);
@@ -115,7 +115,7 @@ public class Principal extends javax.swing.JFrame {
         gridBagConstraints.insets = new java.awt.Insets(12, 3, 0, 3);
         panelMenu.add(botonMoificarProd, gridBagConstraints);
 
-        botonAlmacen.setIcon(new javax.swing.ImageIcon("C:\\Users\\crist\\Desktop\\Trabajos\\JavaSpringNet\\SuperMercadoMaven\\src\\main\\java\\Imagenes\\boxes_2310998.png")); // NOI18N
+        botonAlmacen.setIcon(new javax.swing.ImageIcon("C:\\Users\\crist\\OneDrive\\Desktop\\Trabajos Progrmacion\\Supermercado-javaEE\\src\\main\\java\\Imagenes\\boxes_2310998.png")); // NOI18N
         botonAlmacen.addMouseListener(new java.awt.event.MouseAdapter() {
             public void mouseEntered(java.awt.event.MouseEvent evt) {
                 botonAlmacenMouseEntered(evt);
@@ -135,7 +135,7 @@ public class Principal extends javax.swing.JFrame {
         gridBagConstraints.insets = new java.awt.Insets(18, 3, 0, 3);
         panelMenu.add(botonAlmacen, gridBagConstraints);
 
-        botonMov.setIcon(new javax.swing.ImageIcon("C:\\Users\\crist\\Desktop\\Trabajos\\JavaSpringNet\\SuperMercadoMaven\\src\\main\\java\\Imagenes\\vecteezy_delivery-truck-icon-icon-png-on-transparent-background_14455904 (1).png")); // NOI18N
+        botonMov.setIcon(new javax.swing.ImageIcon("C:\\Users\\crist\\OneDrive\\Desktop\\Trabajos Progrmacion\\Supermercado-javaEE\\src\\main\\java\\Imagenes\\vecteezy_delivery-truck-icon-icon-png-on-transparent-background_14455904 (1).png")); // NOI18N
         botonMov.addMouseListener(new java.awt.event.MouseAdapter() {
             public void mouseEntered(java.awt.event.MouseEvent evt) {
                 botonMovMouseEntered(evt);
@@ -155,7 +155,7 @@ public class Principal extends javax.swing.JFrame {
         gridBagConstraints.insets = new java.awt.Insets(18, 3, 0, 3);
         panelMenu.add(botonMov, gridBagConstraints);
 
-        botonCaja.setIcon(new javax.swing.ImageIcon("C:\\Users\\crist\\Desktop\\Trabajos\\JavaSpringNet\\SuperMercadoMaven\\src\\main\\java\\Imagenes\\pngegg.png")); // NOI18N
+        botonCaja.setIcon(new javax.swing.ImageIcon("C:\\Users\\crist\\OneDrive\\Desktop\\Trabajos Progrmacion\\Supermercado-javaEE\\src\\main\\java\\Imagenes\\pngegg.png")); // NOI18N
         botonCaja.addMouseListener(new java.awt.event.MouseAdapter() {
             public void mouseEntered(java.awt.event.MouseEvent evt) {
                 botonCajaMouseEntered(evt);
@@ -175,7 +175,7 @@ public class Principal extends javax.swing.JFrame {
         gridBagConstraints.insets = new java.awt.Insets(18, 3, 0, 3);
         panelMenu.add(botonCaja, gridBagConstraints);
 
-        botonTicket.setIcon(new javax.swing.ImageIcon("C:\\Users\\crist\\Desktop\\Trabajos\\JavaSpringNet\\SuperMercadoMaven\\src\\main\\java\\Imagenes\\ticket.png")); // NOI18N
+        botonTicket.setIcon(new javax.swing.ImageIcon("C:\\Users\\crist\\OneDrive\\Desktop\\Trabajos Progrmacion\\Supermercado-javaEE\\src\\main\\java\\Imagenes\\ticket.png")); // NOI18N
         botonTicket.addMouseListener(new java.awt.event.MouseAdapter() {
             public void mouseEntered(java.awt.event.MouseEvent evt) {
                 botonTicketMouseEntered(evt);
@@ -195,7 +195,7 @@ public class Principal extends javax.swing.JFrame {
         gridBagConstraints.insets = new java.awt.Insets(12, 3, 0, 3);
         panelMenu.add(botonTicket, gridBagConstraints);
 
-        botonGanancias.setIcon(new javax.swing.ImageIcon("C:\\Users\\crist\\Desktop\\Trabajos\\JavaSpringNet\\SuperMercadoMaven\\src\\main\\java\\Imagenes\\klipartz.com.png")); // NOI18N
+        botonGanancias.setIcon(new javax.swing.ImageIcon("C:\\Users\\crist\\OneDrive\\Desktop\\Trabajos Progrmacion\\Supermercado-javaEE\\src\\main\\java\\Imagenes\\klipartz.com.png")); // NOI18N
         botonGanancias.addMouseListener(new java.awt.event.MouseAdapter() {
             public void mouseEntered(java.awt.event.MouseEvent evt) {
                 botonGananciasMouseEntered(evt);

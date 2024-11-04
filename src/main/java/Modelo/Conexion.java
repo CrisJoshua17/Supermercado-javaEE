@@ -13,7 +13,7 @@ public class Conexion {
     
      public static final String URL = "jdbc:mysql://localhost:3306/supermercado?autoReconnet=true&useSSL=false" ; 
         public static final String usuario = "root";
-        public static final String contraseña = "Haikyuu2024";
+        public static final String contraseña = "Haikyuu1212";
         
          public Connection getConnection(){
         

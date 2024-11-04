@@ -87,7 +87,7 @@
         <Component class="javax.swing.JButton" name="botonRegistro">
           <Properties>
             <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="2" name="C:\Users\crist\Desktop\Trabajos\JavaSpringNet\SuperMercadoMaven\src\main\java\Imagenes\registro (1).png"/>
+              <Image iconType="2" name="C:\Users\crist\OneDrive\Desktop\Trabajos Progrmacion\Supermercado-javaEE\src\main\java\Imagenes\registro (1).png"/>
             </Property>
           </Properties>
           <Events>
@@ -103,7 +103,7 @@
         <Component class="javax.swing.JButton" name="botonMoificarProd">
           <Properties>
             <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="2" name="C:\Users\crist\Desktop\Trabajos\JavaSpringNet\SuperMercadoMaven\src\main\java\Imagenes\products_1312256.png"/>
+              <Image iconType="2" name="C:\Users\crist\OneDrive\Desktop\Trabajos Progrmacion\Supermercado-javaEE\src\main\java\Imagenes\products_1312256.png"/>
             </Property>
           </Properties>
           <Events>
@@ -119,7 +119,7 @@
         <Component class="javax.swing.JButton" name="botonAlmacen">
           <Properties>
             <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="2" name="C:\Users\crist\Desktop\Trabajos\JavaSpringNet\SuperMercadoMaven\src\main\java\Imagenes\boxes_2310998.png"/>
+              <Image iconType="2" name="C:\Users\crist\OneDrive\Desktop\Trabajos Progrmacion\Supermercado-javaEE\src\main\java\Imagenes\boxes_2310998.png"/>
             </Property>
           </Properties>
           <Events>
@@ -135,7 +135,7 @@
         <Component class="javax.swing.JButton" name="botonMov">
           <Properties>
             <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="2" name="C:\Users\crist\Desktop\Trabajos\JavaSpringNet\SuperMercadoMaven\src\main\java\Imagenes\vecteezy_delivery-truck-icon-icon-png-on-transparent-background_14455904 (1).png"/>
+              <Image iconType="2" name="C:\Users\crist\OneDrive\Desktop\Trabajos Progrmacion\Supermercado-javaEE\src\main\java\Imagenes\vecteezy_delivery-truck-icon-icon-png-on-transparent-background_14455904 (1).png"/>
             </Property>
           </Properties>
           <Events>
@@ -151,7 +151,7 @@
         <Component class="javax.swing.JButton" name="botonCaja">
           <Properties>
             <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="2" name="C:\Users\crist\Desktop\Trabajos\JavaSpringNet\SuperMercadoMaven\src\main\java\Imagenes\pngegg.png"/>
+              <Image iconType="2" name="C:\Users\crist\OneDrive\Desktop\Trabajos Progrmacion\Supermercado-javaEE\src\main\java\Imagenes\pngegg.png"/>
             </Property>
           </Properties>
           <Events>
@@ -167,7 +167,7 @@
         <Component class="javax.swing.JButton" name="botonTicket">
           <Properties>
             <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="2" name="C:\Users\crist\Desktop\Trabajos\JavaSpringNet\SuperMercadoMaven\src\main\java\Imagenes\ticket.png"/>
+              <Image iconType="2" name="C:\Users\crist\OneDrive\Desktop\Trabajos Progrmacion\Supermercado-javaEE\src\main\java\Imagenes\ticket.png"/>
             </Property>
           </Properties>
           <Events>
@@ -183,7 +183,7 @@
         <Component class="javax.swing.JButton" name="botonGanancias">
           <Properties>
             <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="2" name="C:\Users\crist\Desktop\Trabajos\JavaSpringNet\SuperMercadoMaven\src\main\java\Imagenes\klipartz.com.png"/>
+              <Image iconType="2" name="C:\Users\crist\OneDrive\Desktop\Trabajos Progrmacion\Supermercado-javaEE\src\main\java\Imagenes\klipartz.com.png"/>
             </Property>
           </Properties>
           <Events>
